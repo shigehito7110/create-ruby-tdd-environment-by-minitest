@@ -51,4 +51,3 @@ class ${class_name}Test < Minitest::Test
   end
 end
 TEXT
-
